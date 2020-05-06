@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BallLayout">
+        <attr name="radius" format="dimension" />
+        <attr name="frontAlpha" format="float" />
+        <attr name="backAlpha" format="float" />
+        <attr name="frontScale" format="float" />
+        <attr name="backScale" format="float" />
+        <attr name="autoRotationByFinger" format="boolean" />
+        <attr name="fixedSpeed" format="boolean" />
+        <attr name="acceleration" format="float" />
+        <attr name="endSpeed" format="float" />
+    </declare-styleable>
+</resources>
